@@ -1,0 +1,71 @@
+.body{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+}
+
+h1 img{
+    width: 380px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.InputsOfDollar{
+    height: 50px;
+    width: 222px;
+    font-size: 20px;
+    padding: 10px;
+    margin: 8px;
+    border: 1px solid #000000;
+    background-color: #FDFDFD;
+    border-radius: 3px;
+}
+
+.InputsOfReais{
+    font-size: 20px;
+    padding: 10px;
+    margin: 4px;
+    border: 1px solid #000000;
+    background-color: #FDFDFD;
+    border-radius: 3px;
+}
+
+
+.ButtonConvert{
+    border: inset dashed;
+    font-size: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 5px;
+    border-radius: 8px;
+    background-color: #FF5959;
+    color: black;
+    
+}
+
+.ButtonConvert:hover{
+    background-color: #97FFAE;
+    color: black;
+}
+
+.result{
+    padding: 10px;
+    border: 2px solid #8b8b8b;
+    background: #FDFDFD;
+    font-size: 18px;
+    width: 550px;
+    display: inline-block;
+}
+
+body .result{
+    text-align: center;
+}
+
+.box-form{
+    padding: 20px;
+    margin-top: 50px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+

@@ -1,0 +1,27 @@
+{
+  "name": "convertmymoney",
+  "version": "1.0.0",
+  "description": "ConvertMyMoney - @devpleno",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Money"
+  ],
+  "author": "Raphael Rodrigues",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "jest":{
+    "collectCoverage": true
+  }
+}
